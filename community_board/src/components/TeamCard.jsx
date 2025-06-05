@@ -1,7 +1,7 @@
 
 const TeamCard = (props) => {
     const { teamName, teamLocation, teamImage, teamLink, teamRanking} = props;
-    const isLongName = teamName.length > 20; // Adjust threshold as needed
+    const isLongName = teamName.length > 20; 
     
     return (
         <div>
