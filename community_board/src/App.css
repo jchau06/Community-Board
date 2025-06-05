@@ -9,10 +9,26 @@ body {
   text-align: center;
 }
 
-.Header-img{
+.Header-img {
   width: 50vw;
   height: auto;
   max-width: 650px;
+}
+
+/* Make header image bigger on tablets */
+@media (max-width: 1024px) {
+  .Header-img {
+    width: 80vw;
+    max-width: 90vw;
+  }
+}
+
+/* Make header image even bigger on phones */
+@media (max-width: 600px) {
+  .Header-img {
+    width: 95vw;
+    max-width: 98vw;
+  }
 }
 
 .Header-h1{
@@ -22,17 +38,30 @@ body {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
-.team-grid{
+.team-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(4, 1fr); /* 4 columns by default */
   gap: 1.5rem;
   margin-top: 2rem;
   padding: 0 1.5rem;
 }
 
+@media (max-width: 1024px) {
+  .team-grid {
+    grid-template-columns: repeat(2, 1fr); /* 2 columns on tablets */
+  }
+}
+
+@media (max-width: 600px) {
+  .team-grid {
+    grid-template-columns: 1fr; /* 1 column on mobile */
+    padding: 0 0.5rem;
+  }
+}
+
 .TeamCard-img {
   width: 100%;
-  height: 130px;      /* Adjusted for 3 cards per row */
+  height: 200px;      /* Adjusted for 3 cards per row */
   object-fit: cover;
   border-top-left-radius: 12px;
   border-top-right-radius: 12px;
@@ -55,9 +84,13 @@ body {
   color: #222;
 }
 
+.TeamName-text--small {
+  font-size: 1.35rem;
+}
+
 .TeamLocation-text {
   font-size: 1.1rem;
-  margin: 0 0 1rem 0;
+  margin: 0 0 0.5rem 0;
   color: #222;
 }
 

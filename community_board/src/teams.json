@@ -2,7 +2,7 @@
   {
     "teamName": "Oklahoma City Thunder",
     "teamLocation": "Oklahoma City, OK",
-    "teamImage": "/okc_image.webp",
+    "teamImage": "/thunder_image.webp",
     "teamRanking": "Ranked 1st in the Western Conference",
     "teamLink": "https://www.nba.com/thunder/"
   },
@@ -12,5 +12,103 @@
     "teamImage": "/rockets_image.avif",
     "teamRanking": "Ranked 2nd in the Western Conference",
     "teamLink": "https://www.nba.com/rockets/"
+  },
+  {
+    "teamName": "Los Angeles Lakers",
+    "teamLocation": "Los Angeles, CA",
+    "teamImage": "/lakers_image.avif",
+    "teamRanking": "Ranked 3rd in the Western Conference",
+    "teamLink": "https://www.nba.com/lakers/"
+  },
+  {
+    "teamName": "Denver Nuggets",
+    "teamLocation": "Denver, CO",
+    "teamImage": "/nuggets_image.webp",
+    "teamRanking": "Ranked 4th in the Western Conference",
+    "teamLink": "https://www.nba.com/nuggets/"
+  },
+ {
+    "teamName": "Los Angeles Clippers",
+    "teamLocation": "Los Angeles, CA",
+    "teamImage": "/clippers_image.webp",
+    "teamRanking": "Ranked 5th in the Western Conference",
+    "teamLink": "https://www.nba.com/clippers/"
+  },
+     {
+    "teamName": "Minnesota Timberwolves",
+    "teamLocation": "Minneapolis, MN",
+    "teamImage": "/wolves_image.webp",
+    "teamRanking": "Ranked 6th in the Western Conference",
+    "teamLink": "https://www.nba.com/timberwolves/"
+  },
+   {
+    "teamName": "Golden State Warriors",
+    "teamLocation": "San Francisco, CA",
+    "teamImage": "/gsw_image.avif",
+    "teamRanking": "Ranked 7th in the Western Conference",
+    "teamLink": "https://www.nba.com/warriors/"
+  },
+     {
+    "teamName": "Memphis Grizzlies",
+    "teamLocation": "Memphis, TN",
+    "teamImage": "/memphis_image.jpg",
+    "teamRanking": "Ranked 8th in the Western Conference",
+    "teamLink": "https://www.nba.com/grizzlies/"
+  },
+  {
+    "teamName": "Cleveland Cavaliers",
+    "teamLocation": "Cleveland, OH",
+    "teamImage": "/cavs_image.jpg",
+    "teamRanking": "Ranked 1st in the Eastern Conference",
+    "teamLink": "https://www.nba.com/cavaliers/"
+  },
+  {
+    "teamName": "Boston Celtics",
+    "teamLocation": "Boston, MA",
+    "teamImage": "/celtics_image.webp",
+    "teamRanking": "Ranked 2nd in the Eastern Conference",
+    "teamLink": "https://www.nba.com/celtics/"
+  },
+  {
+    "teamName": "New York Knicks",
+    "teamLocation": "New York, NY",
+    "teamImage": "/knicks_image.webp",
+    "teamRanking": "Ranked 3rd in the Eastern Conference",
+    "teamLink": "https://www.nba.com/knicks/"
+  },
+  {
+    "teamName": "Indiana Pacers",
+    "teamLocation": "Indianapolis, IN",
+    "teamImage": "/pacers_image.webp",
+    "teamRanking": "Ranked 4th in the Eastern Conference",
+    "teamLink": "https://www.nba.com/pacers/"
+  },
+ {
+    "teamName": "Milwaukee Bucks",
+    "teamLocation": "Milwaukee, WI",
+    "teamImage": "/bucks_image.webp",
+    "teamRanking": "Ranked 5th in the Eastern Conference",
+    "teamLink": "https://www.nba.com/bucks/"
+  },
+     {
+    "teamName": "Detroit Pistons",
+    "teamLocation": "Detroit, MI",
+    "teamImage": "/pistons_image.webp",
+    "teamRanking": "Ranked 6th in the Eastern Conference",
+    "teamLink": "https://www.nba.com/pistons/"
+  },
+   {
+    "teamName": "Orlando Magic",
+    "teamLocation": "Orlando, FL",
+    "teamImage": "/magic_image.avif",
+    "teamRanking": "Ranked 7th in the Eastern Conference",
+    "teamLink": "https://www.nba.com/magic/"
+  },
+     {
+    "teamName": "Miami Heat",
+    "teamLocation": "Miami, FL",
+    "teamImage": "/heat_image.webp",
+    "teamRanking": "Ranked 8th in the Eastern Conference",
+    "teamLink": "https://www.nba.com/heat/"
   }
 ]
