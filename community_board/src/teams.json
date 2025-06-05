@@ -1,0 +1,16 @@
+[
+  {
+    "teamName": "Oklahoma City Thunder",
+    "teamLocation": "Oklahoma City, OK",
+    "teamImage": "/okc_image.webp",
+    "teamRanking": "Ranked 1st in the Western Conference",
+    "teamLink": "https://www.nba.com/thunder/"
+  },
+  {
+    "teamName": "Houston Rockets",
+    "teamLocation": "Houston, TX",
+    "teamImage": "/rockets_image.avif",
+    "teamRanking": "Ranked 2nd in the Western Conference",
+    "teamLink": "https://www.nba.com/rockets/"
+  }
+]
