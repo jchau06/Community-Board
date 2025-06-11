@@ -1,8 +1,8 @@
 # Community-Board
 
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *The NBA 2024-2025 Playoff Contenders*
 
-Submitted by: **The NBA 2024-2025 Playoff Contenders**
+Submitted by: **Jonathan Chau**
 
 This web app: **A website containing several cards that show descriptions of the NBA teams that are competing in the NBA playoffs this year. Information includes team name, ranking in conference, location, as well as a clickable link to access the team website.**
 
@@ -35,10 +35,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/TlkdKZD' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/codepath/project1/Community-Board/project1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with freeconvert.com.  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -46,7 +46,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges included figuring out an efficient way to continually create card components for my website. I ended up using a JSON file to store all my data and I needed to explore how a map function works to complete this task. Additionally, styling and creating components was a challenge as well.
 
 ## License
 
